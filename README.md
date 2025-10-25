@@ -1,3 +1,13 @@
+
+Link to the model : 
+
+This link will redirect you to my model files : 
+
+🔗✅ -->> https://drive.google.com/drive/folders/1uRqRHdP2B1sKy0Hry73uaFfFnWEZIdQR?usp=sharing
+
+
+
+
 # BiasGuard-ALBERT: HR Bias Detection System
 
 AI-powered system to detect bias in job descriptions using ALBERT transformers.
